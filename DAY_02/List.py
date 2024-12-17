@@ -42,3 +42,9 @@ print(list1)
 print(list1[:])
 print(list1[1:])
 print(list1[1])
+
+
+print(list1==list2) # compares the values inside the object 
+
+print(list1 is list2) # checks whether the both are same objects or not  
+
