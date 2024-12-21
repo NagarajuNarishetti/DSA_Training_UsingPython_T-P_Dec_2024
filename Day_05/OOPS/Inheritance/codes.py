@@ -101,3 +101,4 @@ w1.text()
 # w1.payment Gives error bcoz  w1 is parent object and payment is method in child class
 w2=WhatsApp2()
 w2.payment() 
+
